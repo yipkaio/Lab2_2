@@ -4,13 +4,14 @@
 
 ### Lab 2
 
-**This is a bold text**
-*This is a italic font*
-~This was mistaken text~
-***This text is important***
+**This is a bold text** <br>
+*This is a italic font*<br>
+~This was mistaken text~<br>
+***This text is important***<br>
 This is a <sub>subscript</sub> text
-<sup>superscript</sup>
-<ins>underlined</ins>
+<br>
+<sup>superscript</sup><br>
+<ins>underlined</ins><br>
 
 > Text that is a quote
 ```
